@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Luperca";
+  src: url("fonts/LupercaVF.ttf") format("truetype");
+  font-display: swap;
+}
+
+body {
+  font-family: "Luperca", serif;
+  font-optical-sizing: auto;
+}
